@@ -1,0 +1,23 @@
+{
+  "firstName": "Иван",
+  "lastName": "Иванов",
+  "sessions": [{
+    "averageGrade": 9,
+    "sessionNumber": 1,
+    "items": [
+      {
+        "exam": true,
+        "subject": "Матанализ",
+        "grade": 9
+      },
+      {
+        "exam": false,
+        "subject": "Физра",
+        "grade": 1
+      }
+    ]
+  }],
+  "course": 99,
+  "middleName": "Иванович",
+  "group": "ПО-21"
+}

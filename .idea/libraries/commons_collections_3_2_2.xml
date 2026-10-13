@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="commons-collections-3.2.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/commons-collections-3.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-digester-2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-logging-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-validator-1.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/everit-json-schema-1.14.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/handy-uri-templates-2.1.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/joda-time-2.10.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/json-20231013.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/re2j-1.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
